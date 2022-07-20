@@ -8,6 +8,9 @@ module.exports = {
 		filename: 'index.js'
 	},
 	resolve: {
+    alias: {
+      three: path.resolve('./node_modules/three')
+    },
 		extensions: [".js", ".wasm"]
 	},
 	plugins: [
