@@ -21,7 +21,7 @@ module.exports = {
 		})
 	],
 	devServer: {
-		contentBase: './dist',
+		static: './dist',
 		https: true,
 		host: '0.0.0.0'
 	},
