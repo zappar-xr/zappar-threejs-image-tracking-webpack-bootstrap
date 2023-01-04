@@ -12,7 +12,7 @@
   "author": "Zappar Limited",
   "license": "MIT",
   "dependencies": {
-    "@zappar/zappar-threejs": "2.0.1",
+    "@zappar/zappar-threejs": "2.0.6",
     "three": "^0.137.0"
   },
   "devDependencies": {
